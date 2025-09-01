@@ -1,4 +1,6 @@
-Front-End Programming Assignment (1 September 2025)
+----------------------------------------------------------------------
+📄 **Front-End Programming Assignment (September 1st 2025)** 📄
+----------------------------------------------------------------------
 
 📌 **Objective:**
 This project is a Front-End Programming assignment with the goal of 
